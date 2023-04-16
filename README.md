@@ -11,4 +11,4 @@ We developed a machine learning algorithm to predict loan defaults based on the 
 We used the trained algorithm to make predictions on the test dataset. We created a new file called test_final.csv, which contains the predicted target variable for each customer record in the test dataset.
 
 ## Analysis
-We analyzed the train dataset using various visualizations to gain insights into the data. We used Python libraries such as Pandas, Matplotlib, and Seaborn to plot graphs of the distribution of loan amount, credit score, employment status, and other features.
+We performed an analysis of the training dataset using various visualizations to gain insights into the data. Python libraries such as Pandas, Matplotlib, and Seaborn were utilized to plot graphs depicting how features such as gender, marital status, employment status, etc. influence the likelihood of obtaining a loan.
